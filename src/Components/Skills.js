@@ -1,24 +1,29 @@
 import React from 'react'; 
 import { CgCPlusPlus } from "react-icons/cg";
-import {FaReact, FaPython, FaGitAlt, FaGithub, FaNpm, FaFigma, FaBootstrap} from "react-icons/fa";
-import {DiNodejs, DiJavascript1} from "react-icons/di";
-import {SiExpress, SiMongodb, SiPostman, SiVercel} from "react-icons/si";
+import {FaReact, FaPython, FaGitAlt, FaFigma, FaDocker, FaLinux, FaJava} from "react-icons/fa";
+import {DiNodejs } from "react-icons/di";
+import {SiExpress, SiPandas, SiMongodb, SiPostman, SiVercel, SiTypescript, SiElastic, SiPostgresql, SiTensorflow} from "react-icons/si";
 
 const Skills = ({skill}) => {
     const icon = {
+        Docker: <FaDocker/>,
         'C++': <CgCPlusPlus/>,
+        Linux: <FaLinux />,
         Postman: <SiPostman/>,
         React: <FaReact/>,
-        Javascript: <DiJavascript1/>,
+        Typescript: <SiTypescript/>,
         Node : <DiNodejs/>,
         Express : <SiExpress/>,
         MongoDb : <SiMongodb/>,
         Git : <FaGitAlt/>,
-        Github : <FaGithub/>,
-        Npm : <FaNpm/>,
+        Python : <FaPython/>,
         Figma : <FaFigma/>,
-        Bootstrap: <FaBootstrap/>,
-        Vercel : <SiVercel/>
+        Tensorflow: <SiTensorflow/>,
+        Vercel : <SiVercel/>,
+        Java: <FaJava />,
+        Elastic: <SiElastic/>,
+        Postgres: <SiPostgresql/>,
+        Pandas: <SiPandas />
     }
     
   return (
