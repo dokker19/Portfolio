@@ -24,7 +24,7 @@ const Experience = () => {
           </p>
           <br/>
 
-          <h1 className='ExperienceTextHeading' >Summmer <b>2022</b> (Seoul, Korea)</h1>
+          <h1 className='ExperienceTextHeading' >Summer <b>2022</b> (Seoul, Korea)</h1>
           <p>
             KTB Asset Management - Equity Team <br/>
             Technology Research Intern

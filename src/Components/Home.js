@@ -48,13 +48,13 @@ const Home = () => {
             Last but not least, I love <b>football</b> and <b>poker</b>. 
           </p> */}
           <p>
-            - Computer Science, Applied Math & Statistics at <b class="JHU">Hopkins</b>
+            - <b>ICPC</b> Regionalist : Team <b class="JHU">Johns Hopkins</b>
             <br/>
-            - fluent in <b>Python</b>, Java, C/C++
+            - fluent in Python, Java, C/C++
             <br/>
             - lots of experiences with TypeScript the <b>MERN</b> stack
             <br/>
-            - currently studying <b>Machine Learning</b>, Parallel Computing, Networks, and Financial Math
+            - currently studying <b>Optimization</b>, Parallel Computing, Networks, and Financial Math
           </p>
 
           <br/>
@@ -65,7 +65,7 @@ const Home = () => {
           - solving technical challenges <br/>
           - building a highly performant, secure, and <b>scalable systems</b><br/>
           - breaking down complex tasks into smaller parts<br/>
-           - <b>football</b> and poker. 
+           - football, <b>squash</b> and poker. 
           </p>
         </div>
         {/* <Tilt>
