@@ -8,11 +8,19 @@ const Experience = () => {
     <>
       <div className='ExperiencePage'>
         <div className='ExperienceText'>
+
+        <h1 className='ExperienceTextHeading' >Summer 2025 - Present <b>(Silicon Valley)</b> </h1>
+          <p>
+            <b className="amazon">Amazon - AWS (Amazon Web Services) </b> <br/>
+            Software Development Engineer
+          </p>
+          <br/>
+
         <h1 className='ExperienceTextHeading' >Summer <b>2024</b> (NYC)</h1>
           <p>
             BMO Clearpool Group - <b>Algo Trading Team</b>
             <br/>
-            Quantitative Developer Intern
+            Algorithm Development Intern
           </p>
 
           <br/>
