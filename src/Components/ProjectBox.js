@@ -6,9 +6,9 @@ import {CgFileDocument} from "react-icons/cg";
 const  ProjectBox = ({projectPhoto, projectName}) => {
   const desc = {
     
-    TutorHubDesc:"Comprehensive tutor matching platform at Hopkins built with MERN. NOTE: This is a private repo. But you can check out the demo! Guest user email: guest@jhu.edu Guest password: guest@Jhu",
-    TutorHubGithub:"",
-    TutorHubWebsite:"https://project-team-02.vercel.app/",
+    TutorHubDesc:"Comprehensive tutor matching platform at Hopkins built with MERN",
+    TutorHubGithub:"https://github.com/dokker19/Tutorhub",
+    TutorHubWebsite:"",
 
     IssueTrackerDesc: "Collaborative ticket tracking. Manage your projects, create, assign and manage your projects and tickets easily",
     IssueTrackerGithub: "https://github.com/dokker19/IssueTracker",
